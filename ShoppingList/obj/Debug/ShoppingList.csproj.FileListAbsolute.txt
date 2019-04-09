@@ -1,0 +1,192 @@
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\ShoppingList.dll.config
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\ShoppingList.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\ShoppingList.pdb
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csc.exe
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csc.exe.config
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csc.rsp
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csi.exe
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csi.exe.config
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\csi.rsp
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.AppContext.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Console.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.IO.Compression.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Claims.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.ValueTuple.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\vbc.exe
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\vbc.exe.config
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\vbc.rsp
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\Newtonsoft.Json.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Net.Http.Formatting.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Web.Http.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Web.Http.WebHost.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\Newtonsoft.Json.xml
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Net.Http.Formatting.xml
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Web.Http.xml
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\System.Web.Http.WebHost.xml
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csprojAssemblyReference.cache
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.csproj.CopyComplete
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.dll
+C:\Users\Brad\source\repos\ShoppingList\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.dll.config
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.pdb
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.exe
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.exe.config
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.rsp
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.exe
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.exe.config
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.rsp
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.AppContext.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Console.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Compression.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Claims.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.ValueTuple.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.exe
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.exe.config
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.rsp
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Newtonsoft.Json.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Net.Http.Formatting.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.WebHost.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Newtonsoft.Json.xml
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Net.Http.Formatting.xml
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.xml
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.WebHost.xml
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csprojAssemblyReference.cache
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csproj.CopyComplete
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.dll
+C:\Users\Brad\Downloads\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.pdb
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.dll.config
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\ShoppingList.pdb
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.exe
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.exe.config
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csc.rsp
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.exe
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.exe.config
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\csi.rsp
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.AppContext.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Console.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Claims.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.exe
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.exe.config
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\vbc.rsp
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Newtonsoft.Json.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Net.Http.Formatting.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.WebHost.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Newtonsoft.Json.xml
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Net.Http.Formatting.xml
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.xml
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\System.Web.Http.WebHost.xml
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csprojAssemblyReference.cache
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.csproj.CopyComplete
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.dll
+C:\Users\Alvina\Documents\I Dont know what happend but here you go\ShoppingList-master\ShoppingList-master\ShoppingList\obj\Debug\ShoppingList.pdb
